@@ -1,5 +1,5 @@
 # deployed-projects
-Deployed Projects
+**Deployed Projects**
 
 React Redux Thunk Gallery:/
 https://keen-narwhal-a01fec.netlify.app/
