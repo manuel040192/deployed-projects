@@ -7,7 +7,7 @@ https://github.com/manuel040192/react-redux-thunk-gallery/
 
 React Typescript Simple and Multiple Option Selection:
 https://bespoke-strudel-4aaf9c.netlify.app/
-https://github.com/manuel040192/react-typescript-single-and-multiple-option-selection
+https://github.com/manuel040192/react-typescript-single-and-multiple-option-selection/
 
 Web3 App on Solana with React and Rust:
 https://neon-khapse-1bba47.netlify.app/
