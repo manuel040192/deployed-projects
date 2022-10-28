@@ -34,6 +34,7 @@ https://github.com/manuel040192/react-ethers-frontend/
 React Redux Toolkit Movie API Website:
 
 https://celadon-salmiakki-0c0e8b.netlify.app/
+
 https://github.com/manuel040192/react-redux-online-store-api-website/
 
 Palma Store Website Next:
