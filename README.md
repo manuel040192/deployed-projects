@@ -31,7 +31,7 @@ https://radiant-brioche-0b1f83.netlify.app/
 
 https://github.com/manuel040192/react-ethers-frontend/
 
-React Redux Toolkit Online Store API Website:
+React Redux Online Store API Website:
 
 https://celadon-salmiakki-0c0e8b.netlify.app/
 
