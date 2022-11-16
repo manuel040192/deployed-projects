@@ -95,18 +95,28 @@ HTML and CSS Order Summary Component:
 
 https://631dc15b9e1ad20beaa7af1e--enchanting-queijadas-3bc7d5.netlify.app/
 
+https://github.com/manuel040192/order-summary-component-challenge/
+
 HTML and CSS Stats Preview Card Component:
 
 https://631dc015f5416c0bc1bbdc38--candid-lollipop-b62460.netlify.app/
+
+https://github.com/manuel040192/stats-preview-card-component-challenge/
 
 HTML and CSS Social Proof Section:
 
 https://631dbe17734bf10bbe3a8e91--symphonious-madeleine-10b579.netlify.app/
 
+https://github.com/manuel040192/social-proof-section-challenge/
+
 HTML, CSS and JavaScript Tasty Webpage:
 
 https://stellar-seahorse-285115.netlify.app/
 
+https://github.com/manuel040192/tasty-webpage/
+
 HTML, CSS and JavaScript TechNews Webpage:
 
 https://soft-marshmallow-34c97c.netlify.app/
+
+https://github.com/manuel040192/technews-webpage/
