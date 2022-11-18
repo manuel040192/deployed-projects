@@ -1,7 +1,5 @@
 **Deployed Web3 Projects**
 
-**Deployed Projects**
-
 Solana Movie Review Frontend:
 
 https://solana-movie-review-frontend.vercel.app/
