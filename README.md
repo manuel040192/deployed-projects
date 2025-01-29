@@ -1,6 +1,12 @@
 # deployed-projects
 **Deployed Projects**
 
+Next TypeScript Notifications Webpage:
+
+https://next-typescript-notifications-webpage-manuel040192s-projects.vercel.app/
+
+https://github.com/manuel040192/next-typescript-notifications-webpage/
+
 Solana Movie Review Frontend:
 
 https://solana-movie-review-frontend.vercel.app/
